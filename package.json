@@ -1,0 +1,14 @@
+{
+  "name": "template-cypress",
+  "version": "1.0.0",
+  "description": "a template for cypress testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.1"
+  }
+}
